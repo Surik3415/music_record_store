@@ -7,10 +7,6 @@ module Api
         # to do
       end
 
-      def update
-        # to do
-      end
-
       def destroy
         # to do
       end

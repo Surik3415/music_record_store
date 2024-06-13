@@ -7,6 +7,7 @@ module Api
         # to do
       end
 
+      # maybe we need logic to extend a rent time
       def update
         # to do
       end
